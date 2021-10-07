@@ -36,3 +36,38 @@ body {
     position: absolute;
     top:10%;
 }
+
+/* main section images and styling */
+
+#main-section {
+    height:700px;
+        
+}
+
+#about {
+    height:500px;
+    width:500px;
+    background: url('../images/about1.JPG') left no-repeat;
+    float: left;
+}
+
+#workshop {
+    height:500px;
+    width:500px;
+    background: url('../images/workshop1.jpg') center no-repeat;
+    margin: 0 auto;
+}
+
+#vision {
+    height:500px;
+    width:500px;
+    background: url('../images/vision1.JPG') right no-repeat;
+    float: right;
+}
+
+#main-section, h1 {
+    text-align: center;
+    color: rgb(102, 106, 109);
+    font-family:Dancing Script, sans-serif;
+    font-size:100px;
+}
