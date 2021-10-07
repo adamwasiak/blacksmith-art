@@ -26,3 +26,13 @@ body {
     margin-right: 30px;
     padding-top: 30px;
 }
+
+/* header images styling */
+
+#header-image {
+    height:500px;
+    width:100%;
+    background: url('../images/anvil.jpg') left no-repeat, url('../images/horseshoe.jpg') right;
+    position: absolute;
+    top:10%;
+}
