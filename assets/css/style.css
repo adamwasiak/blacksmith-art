@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap');
 body {
-    font-size: larger;
+    font-family: Dancing Script, sans-serif;
+    font-weight: 400;
 }
