@@ -9,5 +9,20 @@ body {
 #logo {
     float: left;
     font-size: 270%;
-    color:#50595E
+    color:#50595E;
+    
+}
+
+/* header menu links */ 
+
+#menu {
+    font-size: 115%;
+    letter-spacing: 3px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+    padding-top: 30px;
 }
