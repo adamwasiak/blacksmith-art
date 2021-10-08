@@ -37,32 +37,11 @@ body {
     top:10%;
 }
 
-/* main section images and styling */
+/* main section styling */
 
 #main-section {
     height:700px;
-        
-}
-
-#about {
-    height:500px;
-    width:500px;
-    background: url('../images/about1.JPG') left no-repeat;
-    float: left;
-}
-
-#workshop {
-    height:500px;
-    width:500px;
-    background: url('../images/workshop1.jpg') center no-repeat;
-    margin: 0 auto;
-}
-
-#vision {
-    height:500px;
-    width:500px;
-    background: url('../images/vision1.JPG') right no-repeat;
-    float: right;
+                
 }
 
 #main-section, h1 {
@@ -71,3 +50,31 @@ body {
     font-family:Dancing Script, sans-serif;
     font-size:100px;
 }
+
+.row {
+    display: table;
+    width: 100%;
+    table-layout: fixed;
+}
+
+.about {
+    height:470px;
+    width:30%;
+    display: table-cell;
+        
+}
+
+.workshop {
+    height:470px;
+    width:30%;
+    display: table-cell;
+    
+}
+
+.vision {
+    height:470px;
+    width:30%;
+    display: table-cell;
+    
+}
+
