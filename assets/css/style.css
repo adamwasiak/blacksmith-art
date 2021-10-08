@@ -119,3 +119,14 @@ footer {
 
     width: 100%;
 }
+
+/* Contact page styling */ 
+
+.contact {
+    clear: left;
+    background: url('../images/backgroundanvil.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 980px;
+          
+}
