@@ -130,3 +130,14 @@ footer {
     height: 980px;
           
 }
+
+.contact-form {
+    margin: 75px 10% 0 0;
+    color: black;
+    background-color:#D7E2E4;
+    max-width:400px;
+    position: absolute;
+    left: 10%;
+    padding: 50px;
+}
+   
