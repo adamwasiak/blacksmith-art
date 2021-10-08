@@ -80,3 +80,25 @@ body {
     
 }
 
+/* footer styling */
+
+footer {
+    height:200px;
+    
+}
+
+.social-media {
+    
+    text-align: center;
+}
+
+.social-media li {
+    display: inline;
+}
+
+.social-media i {
+    font-size: 200%;
+    margin:2px;
+    padding: 10%;
+    color: black;
+}
