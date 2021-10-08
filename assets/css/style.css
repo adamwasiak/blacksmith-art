@@ -9,16 +9,18 @@ body {
 
 #logo {
     float: left;
+    margin-top: 10px;
     font-size: 270%;
     color:#50595E;
-    
 }
 
 /* header menu links */ 
 
 #menu {
-    font-size: 115%;
+    font-size: 170%;
     letter-spacing: 3px;
+    margin-top: 10px;
+    color:#50595E;
 }
 
 #menu li {
@@ -27,6 +29,7 @@ body {
     margin-right: 30px;
     padding-top: 30px;
 }
+
 
 /* header images styling */
 
