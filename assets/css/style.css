@@ -2,6 +2,7 @@
 body {
     font-family: Dancing Script, sans-serif;
     font-weight: 400;
+    background-color: #E8E8E8;
 }
 
 /* headings and logo styling */
@@ -54,26 +55,27 @@ body {
 .row {
     display: table;
     width: 100%;
-    table-layout: fixed;
+    table-layout:fixed;
+    
 }
 
 .about {
     height:470px;
-    width:30%;
+    width:33%;
     display: table-cell;
         
 }
 
 .workshop {
     height:470px;
-    width:30%;
+    width:33%;
     display: table-cell;
     
 }
 
 .vision {
     height:470px;
-    width:30%;
+    width:33%;
     display: table-cell;
     
 }
