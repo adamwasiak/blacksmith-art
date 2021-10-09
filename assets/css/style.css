@@ -21,6 +21,8 @@ body {
     letter-spacing: 3px;
     margin-top: 10px;
     color:#50595E;
+    font-family: Helvetica, sans-serif;
+    font-weight: bolder;
 }
 
 #menu li {
@@ -30,13 +32,23 @@ body {
     padding-top: 30px;
 }
 
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+menu, a:hover{
+    border-bottom: 1px solid black;
+}
+
+
 
 /* header images styling */
 
 #header-image {
     height:500px;
     width:100%;
-    background: url('../images/anvil.jpg') left no-repeat, url('../images/horseshoe.jpg') right;
+    background: url('../images/anvil.jpg') left no-repeat, url('../images/horseshoe.jpg') right no-repeat;
     position: absolute;
     top:10%;
 }
