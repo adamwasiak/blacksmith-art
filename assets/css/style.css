@@ -74,6 +74,22 @@ menu, a:hover{
        
 }
 
+.row, h2 {
+
+    text-align: left;
+    font-size: 50px;
+    font-weight: bold;
+    color:#50595E;
+}
+
+h3 {
+    
+    font-family: sans-serif;
+    font-size: large;
+    margin-right: auto;
+    width: 85%;     
+}
+
 .about {
     height:470px;
     width:33%;
