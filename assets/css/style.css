@@ -48,8 +48,9 @@ menu, a:hover{
 #header-image {
     height:500px;
     width:100%;
-    background: url('../images/anvil.jpg') left no-repeat, url('../images/horseshoe.jpg') right no-repeat;
+    background: url('../images/background2.webp') left no-repeat;
     position: absolute;
+    background-size: 100% auto;
     top:10%;
 }
 
