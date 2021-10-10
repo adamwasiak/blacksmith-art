@@ -201,7 +201,7 @@ input, textarea {
 #main-section {
 
     height: 500px;
-}
+    }
 
 #welcome{
 
@@ -213,7 +213,7 @@ p {
     margin-right: auto;
     text-align: justify;
     width: 95%;
-}
+    }
 }
 
 @media screen and (max-width:1024px) {
@@ -223,21 +223,21 @@ p {
     font-size: 40px;
     padding-top: 50px;
     
-}
+    }
 
 #menu {
 
     font-size: 30px;
     padding-top: 10px;
     letter-spacing:2px;
-}
+    }
 
 #welcome {
 
     clear: both;
     font-size: 60px;
     padding-top: 10px;
-}
+    }
 
 }
 
@@ -257,28 +257,28 @@ p {
 
 #menu {
 
-    font-size: 15px;
-    padding-top: 35px;
+    font-size: 10px;
+    padding-top: 50px;
     letter-spacing:1px;
-}
+    }   
 
 #welcome {
 
     font-size: 40px;
     padding-top: 10px;
 
-}
+    }
 
 h2 {
 
     font-size: 35px;
-}
+    }
 
 p {
 
     font-size: 15px;
 
-}
+    }
 }
 
 @media screen and (max-width: 320px) {
@@ -288,7 +288,7 @@ p {
 
     height: 350px;
     position: relative;
-    top: -50px;
+    top: -70px;
     }
 
 
@@ -297,7 +297,7 @@ p {
     font-size: 25px;
     padding-top: 40px;
             
-}
+    }
 
 #menu {
 
@@ -311,16 +311,16 @@ p {
     font-size: 25px;
     padding-top: 10px;
 
-}
+    }
 
 h2 {
 
     font-size: 20px;
-}
+    }
 
 p {
 
     font-size: 8px;
-}
+    }
 
 }
