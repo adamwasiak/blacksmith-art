@@ -65,12 +65,14 @@ menu, a:hover{
     color: rgb(102, 106, 109);
     font-family:Dancing Script, sans-serif;
     font-size:100px;
+    margin-top: auto; 
 }
 
 .row {
     display: table;
     width: 100%;
     table-layout:fixed;
+    padding-top: 25px; 
        
 }
 
@@ -79,6 +81,7 @@ menu, a:hover{
     text-align: left;
     font-size: 50px;
     color:#50595E;
+    margin-top: auto;
 }
 
 p {
