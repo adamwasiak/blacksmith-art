@@ -96,11 +96,11 @@ Results have been outlined below
 ### Deployment 
 This project was created and worked using Code Institute Gitpod Full Template. Once the website was created it was deployed using GitHub.  The specific steps for the deployment were as follows:
 
-1 Go to the repository of the project, once in GitHub
-2 Go to settings
-3 Go to GitHub Pages
-4 Select the source branch as “main” and folder as “root” and click Save.
-5 After few minutes the website was confirmed as published with the following user link: https://adamwasiak.github.io/blacksmith-art/
+1. Go to the repository of the project, once in GitHub
+2. Go to settings
+3. Go to GitHub Pages
+4. Select the source branch as “main” and folder as “root” and click Save.
+5. After few minutes the website was confirmed as published with the following user link: https://adamwasiak.github.io/blacksmith-art/
 
 ### Credits
 
