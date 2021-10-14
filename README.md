@@ -10,4 +10,10 @@ The website was created for the purpose of completing the first Milestone Projec
 The target audience for this website are users interested in blacksmith related art and who may be looking to engage with the artist for commercial purposes. 
 The key purpose of the website is to showcase some of the work completed by the artist and provide basis for promotion of work in the web and opportunities to engage with potential clients.
 
+##User Experience Design  
+###First time visitor goals
+- Get to know the artist 
+-	Have an opportunity to review some of work completed by the artists
+-	Visit social media platforms for further engagement, including commercial one
+-	Opportunity to engage with the artist for specific order through the Contact Me form 
 
