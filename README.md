@@ -141,7 +141,7 @@ This project was created and worked using Code Institute Gitpod Full Template. O
 
 -Submit button styling -credit to W3 School 
 
-
+Thanky you to Code Institute for excellent module content, Code Institue support team and my mentor Daisy for guidance and support.
 
 
 
