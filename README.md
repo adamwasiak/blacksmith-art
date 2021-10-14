@@ -33,6 +33,9 @@ The website consists of 3 pages, homepage, my work (gallery) and contact form pa
 
 ## Features 
 ### Home Page
+
+![Navbar](assets/images/navbar.jpg)
+
 The navigation bar consists of a logo “Blacksmith Art by Jan Wasiak” and Home, My Work and Contact me link to respective pages. The logo itself functions as a home button and bring the users back to the home page.
 
 
