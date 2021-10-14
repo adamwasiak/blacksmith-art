@@ -29,7 +29,7 @@ The website consists of 3 pages, homepage, my work (gallery) and contact form pa
 Typography – I have selected font “Dancing Script” with sans-serif as a fall-back font for logo and welcome message on the website. The specific font of “Dancing Script” was sourced from Google Fonts library.
 
 ## Features 
-### Home Page
+### ---Home Page
 The navigation bar consists of a logo “Blacksmith Art by Jan Wasiak” and Home, My Work and Contact me link to respective pages. The logo itself functions as a home button and bring the users back to the home page.
 
 
@@ -40,10 +40,10 @@ Subsequent sections, within the main section of the homepage, contain brief info
 **Footer**
 The footer features simple icons linking users to real and active Instagram and Etsy accounts. Facebook icon takes users to Facebook’s landing page. Each icon will open respective external website in new window in line with industry standards.
 
-### My Work 
+### ---My Work 
 This page of the website features set of images reflecting artist’s work. The idea of this section of the website was to keep it simple as a gallery with a set of aligned images.
 
-### Contact me
+### --- Contact me
 This section of the website allows users to engage with the artist directly through a contact form. The contact form allows for a message to be included, apart from the core details of the user such as Name, Surname and Email address. All of the sections of the contact form are validated for contacted, including the email address section, which is validated for format of the information and to ensure that an actual email is being submitted. The contact me page styles the background with thyme related image.
 
 ## Future developments
