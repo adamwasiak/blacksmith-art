@@ -85,7 +85,7 @@ Results have been outlined below
 
 **CSS file**
 
-**Lighthouse – Dev Tools*
+**Lighthouse – Dev Tools**
 
 *Desktop*
 
@@ -104,9 +104,14 @@ This project was created and worked using Code Institute Gitpod Full Template. O
 ### Credits
 
 -Contact me background photo credit Jonny Gios - https://unsplash.com/photos/uVmVzxYNQUg
+
 -Header image -credit to paasadani- https://pixabay.com/illustrations/anvil-3d-metal-forge-heavy-3588498/
+
 -Header image- credit to Devanath- https://pixabay.com/photos/horseshoe-hoof-magnet-metal-6282055/
+
 -Submit button styling -credit to W3 School 
+
+
 
 
 
