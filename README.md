@@ -2,7 +2,7 @@
 Website dedicated to a local blacksmith artist and his work.
 Please visit the website in [here](https://adamwasiak.github.io/blacksmith-art/)
 
-
+![Multidevice view]('assets/images/devices.jpg)
 
 ## Milestone Project 1
 ### Purpose 
