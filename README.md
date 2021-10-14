@@ -1,5 +1,7 @@
 # Blacksmith Art by Jan Wasiak
 Website dedicated to a local blacksmith artist and his work.
+For art and blacksmithing lovers.
+
 Please visit the website in [here](https://adamwasiak.github.io/blacksmith-art/)
 
 ![Multidevice view](assets/images/devices.jpg)
@@ -11,6 +13,9 @@ The target audience for this website are users interested in blacksmith related 
 The key purpose of the website is to showcase some of the work completed by the artist and provide basis for promotion of work in the web and opportunities to engage with potential clients.
 
 ## User Experience Design  
+
+The key objective of the website from user experience perspective was to keep the website simple in terms of its structure and navigation. 
+The focus was on keeping the wesbite more visual with limited text content limited to key information about the artist.
 
 ### First time visitor goals
 - Get to know the artist 
