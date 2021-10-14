@@ -221,25 +221,30 @@ p {
 /* responsivness below 1024px */
 
 @media screen and (max-width:1024px) {
+
+#main-section {
+
+    height: 350px;
+    padding-top: 55px;
+    }
+
     
 #header-image {
 
     height: 300px;
-    top:25%;
+    top:15%;
     }
 
 
 #logo {
 
     font-size: 40px;
-    padding-top: 50px;
-    
+        
     }
 
 #menu {
 
     font-size: 30px;
-    padding-top: 10px;
     letter-spacing:2px;
     }
 
@@ -270,7 +275,7 @@ p {
 #logo {
 
     font-size: 30px;
-    padding-top: 70px;
+    padding-top: 60px;
         
     }
 
