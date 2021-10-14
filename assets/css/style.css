@@ -43,7 +43,7 @@ menu, a:hover{
 
 
 
-/* header images styling */
+/* header image styling */
 
 #header-image {
     height:500px;
@@ -196,6 +196,8 @@ input, textarea {
 
  /* media queries */
 
+ /* responsivness below 1200px */
+
 @media screen and (max-width:1200px) {
 
 #main-section {
@@ -215,6 +217,8 @@ p {
     width: 95%;
     }
 }
+
+/* responsivness below 1024px */
 
 @media screen and (max-width:1024px) {
     
@@ -247,6 +251,8 @@ p {
     }
 
 }
+
+/* responsivness below 768px */
 
 @media screen and (max-width:768px) {
 
@@ -293,6 +299,8 @@ p {
 
     }
 }
+
+/* responsivness at 320px */
 
 @media screen and (max-width: 320px) {
 
