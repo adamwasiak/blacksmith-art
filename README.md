@@ -40,16 +40,28 @@ The navigation bar consists of a logo “Blacksmith Art by Jan Wasiak” and Hom
 
 
 **Main Section**
+
+![Main Section](assets/images/mainsection.jpg)
+
 The main section contains a welcome message styled with the “Dancing Script” font. The purpose of the message is to welcome user on the website and through the font provide sense of artistic nature of the content.
 Subsequent sections, within the main section of the homepage, contain brief information on the artist, his workshop and his vision for his work.
 
 **Footer**
+
+![Footer](assets/images/footer.jpg)
+
 The footer features simple icons linking users to real and active Instagram and Etsy accounts. Facebook icon takes users to Facebook’s landing page. Each icon will open respective external website in new window in line with industry standards.
 
 ### My Work 
+
+![My Work](assets/images/mywork.jpg)
+
 This page of the website features set of images reflecting artist’s work. The idea of this section of the website was to keep it simple as a gallery with a set of aligned images.
 
 ### Contact me
+
+![Contact Me](assets/images/contact.jpg)
+
 This section of the website allows users to engage with the artist directly through a contact form. The contact form allows for a message to be included, apart from the core details of the user such as Name, Surname and Email address. All of the sections of the contact form are validated for contacted, including the email address section, which is validated for format of the information and to ensure that an actual email is being submitted. The contact me page styles the background with thyme related image.
 
 ## Future developments
@@ -86,7 +98,11 @@ Results have been outlined below
 
 **Index file**
 
+![Index](assets/images/index.jpg)
+
 **My work **
+
+![My Work file ](assets/images/workfile.jpg)
 
 **Contact me**
 
