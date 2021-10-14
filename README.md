@@ -74,6 +74,7 @@ Functional testing was deemed to be completed successfully.
 -My Work and Contact pages had the most optimal responsiveness to all device sizes. During testing an observation was made that the image contact of My Work page can be restyled into column for smaller devices in order to enhance user experience. This observation was included in the future features section above
 
 **Code validator testing**
+
 The code itself was validated using HTML - W3C HTML Validator and CSS - Jigsaw CSS Validator.
 Results have been outlined below
 
