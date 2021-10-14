@@ -115,7 +115,7 @@ Results have been outlined below
 
 **CSS file**
 
-![CssFile](assets/images/contactfile.jpg)
+![CssFile](assets/images/cssfile.jpg)
 
 **Lighthouse – Dev Tools**
 
