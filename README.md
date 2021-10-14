@@ -62,6 +62,7 @@ Throughout the course of testing the following key test areas were focused on:
 **Functional**
 
 -Each of the pages (Home, My Work and Contact me) were tested to ensure that the nav bar links work. This included testing of the logo (Blacksmith Art by Jan Wasiak) to ensure that it brought users back to the home page. 
+
 -Each of the pages (Home, My Work and Contact me) were tested to confirm that the social media links take users to correct external websites and that each opened a new widow, in line with industry standards.
 
 Functional testing was deemed to be completed successfully.
@@ -69,6 +70,7 @@ Functional testing was deemed to be completed successfully.
 **Responsive user experience**
 
 -Testing completed for responsive design for the following break points 1200px, 1024px,768px and for mobile at 320px.
+
 -My Work and Contact pages had the most optimal responsiveness to all device sizes. During testing an observation was made that the image contact of My Work page can be restyled into column for smaller devices in order to enhance user experience. This observation was included in the future features section above
 
 **Code validator testing**
@@ -90,7 +92,7 @@ Results have been outlined below
 *Mobile*
 
 
-###Deployment 
+### Deployment 
 This project was created and worked using Code Institute Gitpod Full Template. Once the website was created it was deployed using GitHub.  The specific steps for the deployment were as follows:
 
 1 Go to the repository of the project, once in GitHub
@@ -99,7 +101,7 @@ This project was created and worked using Code Institute Gitpod Full Template. O
 4 Select the source branch as “main” and folder as “root” and click Save.
 5 After few minutes the website was confirmed as published with the following user link: https://adamwasiak.github.io/blacksmith-art/
 
-###Credits
+### Credits
 
 -Contact me background photo credit Jonny Gios - https://unsplash.com/photos/uVmVzxYNQUg
 -Header image -credit to paasadani- https://pixabay.com/illustrations/anvil-3d-metal-forge-heavy-3588498/
