@@ -217,6 +217,13 @@ p {
 }
 
 @media screen and (max-width:1024px) {
+    
+#header-image {
+
+    height: 300px;
+    top:25%;
+    }
+
 
 #logo {
 
@@ -246,6 +253,12 @@ p {
 #main-section {
 
     height: 400px;
+    }
+
+#header-image {
+
+    height: 300px;
+    top:20%;
     }
 
 #logo {
@@ -283,10 +296,15 @@ p {
 
 @media screen and (max-width: 320px) {
 
+#header-image {
+
+    height: 180px;
+    top:60%;
+    }
 
 #main-section {
 
-    height: 350px;
+    height: fit-content;
     position: relative;
     top: -70px;
     }
@@ -295,7 +313,7 @@ p {
 #logo {
 
     font-size: 25px;
-    padding-top: 40px;
+    padding-top: 75px;
             
     }
 
