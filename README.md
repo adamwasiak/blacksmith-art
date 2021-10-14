@@ -100,20 +100,27 @@ Results have been outlined below
 
 ![Index](assets/images/index.jpg)
 
-**My work **
+**My work**
 
 ![My Work file ](assets/images/workfile.jpg)
 
 **Contact me**
 
+![Contact](assets/images/contactfile.jpg)
+
 **CSS file**
+
+![CssFile](assets/images/contact.jpg)
 
 **Lighthouse – Dev Tools**
 
 *Desktop*
 
+![LightHouse Desktop](assets/images/lighthousedesktop.jpg)
+
 *Mobile*
 
+![LightHouse Mobile](assets/images/lighthousemobile.jpg)
 
 ### Deployment 
 This project was created and worked using Code Institute Gitpod Full Template. Once the website was created it was deployed using GitHub.  The specific steps for the deployment were as follows:
