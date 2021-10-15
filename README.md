@@ -103,7 +103,7 @@ Results have been outlined below
 
 **Index file**
 
-![Index](assets/images/index.jpg)
+![Index](assets/images/index1.jpg)
 
 **My work**
 
