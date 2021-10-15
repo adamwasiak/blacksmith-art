@@ -269,7 +269,7 @@ p {
 #header-image {
 
     height: 300px;
-    top:20%;
+    top:30%;
     }
 
 #logo {
@@ -279,10 +279,9 @@ p {
         
     }
 
-#menu {
+#menu ul {
 
     font-size: 10px;
-    padding-top: 50px;
     letter-spacing:1px;
     }   
 
