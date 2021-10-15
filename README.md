@@ -94,7 +94,12 @@ Functional testing was deemed to be completed successfully.
 
 -Testing completed for responsive design for the following break points 1200px, 1024px,768px and for mobile at 320px.
 
--My Work and Contact pages had the most optimal responsiveness to all device sizes. During testing an observation was made that the image contact of My Work page can be restyled into column for smaller devices in order to enhance user experience. This observation was included in the future features section above
+-My Work and Contact pages had the most optimal responsiveness to all device sizes. During testing an observation was made that the image contact of My Work page can be restyled into column for smaller devices in order to enhance user experience. This observation was included in the future features section above.
+
+-Testing for responsiveness was completed in Chrome Dev Tool and whilst in the tool the responsiveness of all 3 pages was successfully tested, actual testing on Ipad Mini device highlighted a potential bug. On Ipad Mini header image seems to be missing. 
+Testing on mobile device (Samsung A21s) highlighted a bug related to homepage, where the users could not click on the nav bar menu links due to overlapping header image. This bug was fixed prior to final project submission.
+
+Responsiveness testing highlighted additional work required to improve the user experience in terms of website’s overall responsiveness, more specifically homepage.
 
 **Code validator testing**
 
@@ -127,6 +132,20 @@ Results have been outlined below
 
 ![LightHouse Mobile](assets/images/lighthousemobile.jpg)
 
+**Bugs**
+
+  **Fixed Bugs**
+  
+  -In the latter part of the project there were some bugs fixed related to responsive design, specifically homepage layout for various resolutions.
+  
+  -Specific bug impacting (smart) mobile users was fixed prior to project submission. The bug impacted homepage for the (smart) mobile users, preventing users from using nav bar    links to other sections of the page. (Home, My Work and Contact me).
+  
+  **Unfixed Busg**
+  
+  -Ipad Mini bug identified during device testing remains unfixed at the time of the project submission. The bug seems to impact visibility of the header image on the homepage.
+  
+  -There are potential opportunities to further enhancement of overall responsive design, specifically for the homepage section.
+ 
 ### Deployment 
 This project was created and worked using Code Institute Gitpod Full Template. Once the website was created it was deployed using GitHub.  The specific steps for the deployment were as follows:
 
