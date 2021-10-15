@@ -146,7 +146,7 @@ Results have been outlined below
   
   -There are potential opportunities to further enhancement of overall responsive design, specifically for the homepage section.
  
-### Deployment 
+## Deployment 
 This project was created and worked using Code Institute Gitpod Full Template. Once the website was created it was deployed using GitHub.  The specific steps for the deployment were as follows:
 
 1. Go to the repository of the project, once in GitHub
@@ -155,7 +155,7 @@ This project was created and worked using Code Institute Gitpod Full Template. O
 4. Select the source branch as “main” and folder as “root” and click Save.
 5. After few minutes the website was confirmed as published with the following user link: https://adamwasiak.github.io/blacksmith-art/
 
-### Credits
+## Credits
 
 -Contact me background photo credit Jonny Gios - https://unsplash.com/photos/uVmVzxYNQUg
 
