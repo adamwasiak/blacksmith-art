@@ -18,10 +18,10 @@ The key objective of the website from user experience perspective was to keep th
 The focus was on keeping the wesbite more visual with limited text content limited to key information about the artist.
 
 ### First time visitor goals
-- Get to know the artist 
--	Have an opportunity to review some of work completed by the artists
--	Visit social media platforms for further engagement, including commercial one
--	Opportunity to engage with the artist for specific order through the Contact Me form 
+- Get to know the artist. 
+-	Have an opportunity to review some of work completed by the artists.
+-	Visit social media platforms for further engagement, including commercial one.
+-	Opportunity to engage with the artist for specific order through the Contact Me form. 
 
 ### Returning visitor goals
 -	Opportunity to check for updated work gallery 
@@ -32,7 +32,7 @@ The website consists of 3 pages, homepage, my work (gallery) and contact form pa
 
 -**Concept** the key concept was to create a simple, eye pleasing website, with a well-balanced contrasts and color.
 
--**Colors** and background- the colors are primarily grey and light grey in terms of fonts and background.
+-**Colors and background**- the colors are primarily grey and light grey in terms of fonts and background.
 
 -**Typography** – I have selected font “Dancing Script” with sans-serif as a fall-back font for logo and welcome message on the website. The specific font of “Dancing Script” was sourced from Google Fonts library.
 
@@ -67,16 +67,16 @@ This page of the website features set of images reflecting artist’s work. The 
 
 ![Contact Me](assets/images/contact.jpg)
 
-This section of the website allows users to engage with the artist directly through a contact form. The contact form allows for a message to be included, apart from the core details of the user such as Name, Surname and Email address. All of the sections of the contact form are validated for contacted, including the email address section, which is validated for format of the information and to ensure that an actual email is being submitted. The contact me page styles the background with thyme related image.
+This section of the website allows users to engage with the artist directly through a contact form. The contact form allows for a message to be included, apart from the core details of the user such as Name, Surname and Email address. All of the sections of the contact form are validated for content, including the email address section, which is validated for format of the information and to ensure that an actual email is being submitted. The contact me page styles the background with thyme related image.
 
 ## Future developments
-Whilst the initial concept was to keep the website simple and focused on its visual content, there is several future developments to enhance user experience and provide an additional value for the artist.
+Whilst the initial concept was to keep the website simple and focused on its visual content, there are several future developments to enhance user experience and provide an additional value for the artist.
 The key features include:
 
-1.	Artist’s local language version of the website 
-2.	Additional section to share pictures and details of products available 
-3.	Feature allowing users to submit orders for products available
-4.	Routing of contact messages from the websites directly into artist’s personal email address
+1.	Artist’s local language version of the website. 
+2.	Additional section to share pictures and details of products available. 
+3.	Feature allowing users to submit orders for products available.
+4.	Routing of contact messages from the websites directly into artist’s personal email address.
 5.	My work and home page content to align into columns for users using smaller devices for enhanced user experience.
 
 ## Testing 
@@ -96,7 +96,7 @@ Functional testing was deemed to be completed successfully.
 
 -My Work and Contact pages had the most optimal responsiveness to all device sizes. During testing an observation was made that the image contact of My Work page can be restyled into column for smaller devices in order to enhance user experience. This observation was included in the future features section above.
 
--Testing for responsiveness was completed in Chrome Dev Tool and whilst in the tool the responsiveness of all 3 pages was successfully tested, actual testing on Ipad Mini device highlighted a potential bug. On Ipad Mini header image seems to be missing. 
+-Testing for responsiveness was completed in Chrome Dev Tool and whilst in the tool the responsiveness of all 3 pages was successfully tested, actual testing on Ipad Mini device highlighted a potential bug. On Ipad Mini header image of the homepage seems to be missing. 
 Testing on mobile device (Samsung A21s) highlighted a bug related to homepage, where the users could not click on the nav bar menu links due to overlapping header image. This bug was fixed prior to final project submission.
 
 Responsiveness testing highlighted additional work required to improve the user experience in terms of website’s overall responsiveness, more specifically homepage.
@@ -136,7 +136,7 @@ Results have been outlined below
 
   **Fixed Bugs**
   
-  -In the latter part of the project there were some bugs fixed related to responsive design, specifically homepage layout for various resolutions.
+  -In the latter part of the project there were some bugs fixed related to responsive design, specifically homepage layout for various resolutions. These were fixed.
   
   -Specific bug impacting (smart) mobile users was fixed prior to project submission. The bug impacted homepage for the (smart) mobile users, preventing users from using nav bar    links to other sections of the page. (Home, My Work and Contact me).
   
